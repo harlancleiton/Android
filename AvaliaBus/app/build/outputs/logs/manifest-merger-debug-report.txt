@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:39:13-47
+	android:authorities
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:37:13-60
+	android:exported
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:36:19-73
+manifest
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\132aa3895552ad6f295bafa0bbd5f95f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b5fd4c6d46e2638d039992563b5df9ca\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3fe50f410c36114ea779cd593287079b\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\68d6bc3aff86b4a29ca687789fa69245\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\4cc7b0c13c84712a94668b9e5a653196\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\3fa2a9ff5d5c17023b7828d504e30a4e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d82ff86549ec6c3b4a04b3d5d7a7ba74\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\0095cb085828f2b494a1f21d1115adf3\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\02bb64b556b856c33c69ab6a0b649dfe\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\cb35bc871abc0298e468088d493bfaee\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7c77a7b1e418b110a9c5faaff434d330\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6cd41cc6a914cfae3cdbc2c99806ff6e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7544d488e00406f71325cbf14cef235a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\71fb31cc5dc0c4aba2403bb2ee9bca4e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2943f6a1209cd898055aee20e977668c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2b80ebbb249811c8540e2b543f96bd3c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47eb0e13f7cc59de889aaf239bfd5a27\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8a228833900d49be66168ada91726db3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4cfa74daa71d891fc3f8127b2a8ec52\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:11:22-78
+uses-feature#android.hardware.Camera
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:13:5-84
+	android:required
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:13:58-81
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:13:19-57
+application
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:15:5-43:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\132aa3895552ad6f295bafa0bbd5f95f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\132aa3895552ad6f295bafa0bbd5f95f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b5fd4c6d46e2638d039992563b5df9ca\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b5fd4c6d46e2638d039992563b5df9ca\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3fe50f410c36114ea779cd593287079b\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3fe50f410c36114ea779cd593287079b\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\3fa2a9ff5d5c17023b7828d504e30a4e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\3fa2a9ff5d5c17023b7828d504e30a4e\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d82ff86549ec6c3b4a04b3d5d7a7ba74\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d82ff86549ec6c3b4a04b3d5d7a7ba74\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\02bb64b556b856c33c69ab6a0b649dfe\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\02bb64b556b856c33c69ab6a0b649dfe\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7c77a7b1e418b110a9c5faaff434d330\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7c77a7b1e418b110a9c5faaff434d330\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6cd41cc6a914cfae3cdbc2c99806ff6e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6cd41cc6a914cfae3cdbc2c99806ff6e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7544d488e00406f71325cbf14cef235a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7544d488e00406f71325cbf14cef235a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\71fb31cc5dc0c4aba2403bb2ee9bca4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\71fb31cc5dc0c4aba2403bb2ee9bca4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2943f6a1209cd898055aee20e977668c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2943f6a1209cd898055aee20e977668c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2b80ebbb249811c8540e2b543f96bd3c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2b80ebbb249811c8540e2b543f96bd3c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47eb0e13f7cc59de889aaf239bfd5a27\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47eb0e13f7cc59de889aaf239bfd5a27\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8a228833900d49be66168ada91726db3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8a228833900d49be66168ada91726db3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4cfa74daa71d891fc3f8127b2a8ec52\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4cfa74daa71d891fc3f8127b2a8ec52\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:17:9-38
+	android:allowBackup
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:21:9-40
+activity#br.com.harlan.avaliabus.view.activity.MainActivity
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:23:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:29:27-74
+activity#br.com.harlan.avaliabus.view.activity.LoginActivity
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:32:9-65
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:32:19-62
+activity#br.com.harlan.avaliabus.view.activity.RegistroActivity
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:33:19-65
+activity#br.com.harlan.avaliabus.view.activity.EsqueciSenhaActivity
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:34:9-81
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:34:19-69
+uses-sdk
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\132aa3895552ad6f295bafa0bbd5f95f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\132aa3895552ad6f295bafa0bbd5f95f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b5fd4c6d46e2638d039992563b5df9ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b5fd4c6d46e2638d039992563b5df9ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3fe50f410c36114ea779cd593287079b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3fe50f410c36114ea779cd593287079b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\68d6bc3aff86b4a29ca687789fa69245\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\68d6bc3aff86b4a29ca687789fa69245\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\4cc7b0c13c84712a94668b9e5a653196\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\4cc7b0c13c84712a94668b9e5a653196\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\3fa2a9ff5d5c17023b7828d504e30a4e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.6.aar\3fa2a9ff5d5c17023b7828d504e30a4e\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d82ff86549ec6c3b4a04b3d5d7a7ba74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d82ff86549ec6c3b4a04b3d5d7a7ba74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\0095cb085828f2b494a1f21d1115adf3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\0095cb085828f2b494a1f21d1115adf3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\02bb64b556b856c33c69ab6a0b649dfe\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\02bb64b556b856c33c69ab6a0b649dfe\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\cb35bc871abc0298e468088d493bfaee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\cb35bc871abc0298e468088d493bfaee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7c77a7b1e418b110a9c5faaff434d330\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7c77a7b1e418b110a9c5faaff434d330\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6cd41cc6a914cfae3cdbc2c99806ff6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6cd41cc6a914cfae3cdbc2c99806ff6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7544d488e00406f71325cbf14cef235a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7544d488e00406f71325cbf14cef235a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\71fb31cc5dc0c4aba2403bb2ee9bca4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\71fb31cc5dc0c4aba2403bb2ee9bca4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2943f6a1209cd898055aee20e977668c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2943f6a1209cd898055aee20e977668c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2b80ebbb249811c8540e2b543f96bd3c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2b80ebbb249811c8540e2b543f96bd3c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47eb0e13f7cc59de889aaf239bfd5a27\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47eb0e13f7cc59de889aaf239bfd5a27\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8a228833900d49be66168ada91726db3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8a228833900d49be66168ada91726db3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4cfa74daa71d891fc3f8127b2a8ec52\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4cfa74daa71d891fc3f8127b2a8ec52\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:40:13-41:58
+	android:resource
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:41:17-55
+	android:name
+		ADDED from C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Curso Desenvolvedor Android\AvaliaBus\app\src\main\AndroidManifest.xml:40:24-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\132aa3895552ad6f295bafa0bbd5f95f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\132aa3895552ad6f295bafa0bbd5f95f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d82ff86549ec6c3b4a04b3d5d7a7ba74\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d82ff86549ec6c3b4a04b3d5d7a7ba74\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7c77a7b1e418b110a9c5faaff434d330\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7c77a7b1e418b110a9c5faaff434d330\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6cd41cc6a914cfae3cdbc2c99806ff6e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6cd41cc6a914cfae3cdbc2c99806ff6e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7544d488e00406f71325cbf14cef235a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7544d488e00406f71325cbf14cef235a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\71fb31cc5dc0c4aba2403bb2ee9bca4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\71fb31cc5dc0c4aba2403bb2ee9bca4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2943f6a1209cd898055aee20e977668c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2943f6a1209cd898055aee20e977668c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2b80ebbb249811c8540e2b543f96bd3c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2b80ebbb249811c8540e2b543f96bd3c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47eb0e13f7cc59de889aaf239bfd5a27\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47eb0e13f7cc59de889aaf239bfd5a27\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8a228833900d49be66168ada91726db3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8a228833900d49be66168ada91726db3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4cfa74daa71d891fc3f8127b2a8ec52\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4cfa74daa71d891fc3f8127b2a8ec52\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5a0ed73d1e60615a51cfed7ea3997747\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\5c367618c63e489c64fd7f3339f8bc14\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\c3a2c9b17334fc9d5a2e194f1096cc6b\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\fc73b6e6507c021082e4a99887042e6b\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:24:17-71
+permission#br.com.harlan.avaliabus.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:26:22-76
+uses-permission#br.com.harlan.avaliabus.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:31:13-34:29
+intent-filter#br.com.harlan.avaliabus+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:33:27-58
+category#br.com.harlan.avaliabus
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\e32945d782f70efb20aa240b324ec57a\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\db7d1b11d6dc9e7fd5ef570101369959\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\77df303781b4eb8d9cf67a7d53f73e54\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Harlan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\11ba47239138381c21a8ba9c2a7317dc\AndroidManifest.xml:26:13-58

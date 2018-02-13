@@ -1,0 +1,4 @@
+#Thu Nov 09 15:14:12 GMT-03:00 2017
+base.0=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

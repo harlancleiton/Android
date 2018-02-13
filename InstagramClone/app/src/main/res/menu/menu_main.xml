@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".view.HomeActivity">
+
+    <item
+        android:id="@+id/action_configuracoes"
+        android:orderInCategory="100"
+        android:title="@string/action_confiiguracoes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sair"
+        android:orderInCategory="200"
+        android:title="@string/action_sair"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_direct"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_direct"
+        android:title="Direct" />
+
+    <item
+        android:id="@+id/action_compartilhar"
+        android:orderInCategory="300"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_share"
+        android:title="Compartilhar" />
+
+</menu>

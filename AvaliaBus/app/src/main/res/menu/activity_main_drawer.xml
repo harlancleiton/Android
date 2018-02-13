@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_avaliar"
+            android:icon="@drawable/ic_directions_bus_white_24dp"
+            android:title="Nova Avaliação" />
+        <item
+            android:id="@+id/nav_anteriores"
+            android:icon="@drawable/ic_history_white_24dp"
+            android:title="Histórico de avaliações" />
+        <item
+            android:id="@+id/nav_configuracoes"
+            android:icon="@drawable/ic_settings_white_24dp"
+            android:title="Configurações" />
+        <item
+            android:id="@+id/nav_sobre"
+            android:icon="@drawable/ic_help_white_24dp"
+            android:title="Sobre/Ajuda" />
+        <item
+            android:id="@+id/nav_usuario"
+            android:icon="@drawable/ic_person_white_24dp"
+            android:title="Meu usuário" />
+        <item
+            android:id="@+id/nav_sair"
+            android:icon="@drawable/ic_exit_to_app_white_24dp"
+            android:title="Sair do aplicativo" />
+    </group>
+
+</menu>

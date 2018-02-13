@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">xc8fiVbPihXuxKZPyrP1Ji8nOJojNoY2XKbzwhbj</string>
+    <string name="back4app_client_key">MySCGiqhBxY0FpG4SEfPN3cJofTFPKBdDfsLN0KI</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="registro">Registro</string>
+    <string name="usuario">Usuário</string>
+    <string name="tv_registro">Não tem conta? Crie uma</string>
+    <string name="tv_recuperar_senha">Recuperar senha</string>
+    <string name="tv_login">Eu já tenho conta</string>
+    <string name="action_confiiguracoes">Configurações</string>
+    <string name="action_sair">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

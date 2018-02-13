@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="usuario">Usuário</string>
+    <string name="tv_senha">Senha</string>
+    <string name="tv_email">Email</string>
+    <string name="btn_salvar">Salvar</string>
+</resources>

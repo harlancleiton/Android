@@ -1,0 +1,19 @@
+#Thu Nov 09 15:14:15 GMT-03:00 2017
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+base.4=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+base.3=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+base.2=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+base.1=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+base.0=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+file.5=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28\\classes.dex
+file.4=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29\\classes.dex
+file.3=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30\\classes.dex
+file.2=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26\\classes.dex
+file.1=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27\\classes.dex
+file.0=C\:\\Users\\Harlan\\OneDrive\\Estudos\\Cursos Onlines\\Udemy\\Curso Desenvolvedor Android\\AvaliaBus\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25\\classes.dex
